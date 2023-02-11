@@ -1,4 +1,4 @@
-﻿namespace DesignPatters
+﻿namespace DesignPatterns
 {
     internal class Program
     {
